@@ -1,0 +1,84 @@
+{
+	"alpha": {
+		"dtime": "",
+		"server": "",
+		"posts": {
+			"items": [{
+				"id": "1",
+				"type": "photo",
+				"title": "test photo",
+				"body": "",
+				"user": {
+					"id": "1",
+					"name": "Hamzah"
+				},
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "101",
+				"dlikes": "1"
+			}, {
+				"id": "2",
+				"type": "text",
+				"title": "test texto",
+				"body": "",
+				"user": {
+					"id": "1",
+					"name": "Hamzah"
+				},
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "10",
+				"dlikes": "10"
+			}, {
+				"id": "3",
+				"type": "video",
+				"title": "test video",
+				"body": "",
+				"user": {
+					"id": "1",
+					"name": "Hamzah"
+				},
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "1551",
+				"dlikes": "10"
+			}, {
+				"id": "4",
+				"type": "gif",
+				"title": "test gif",
+				"body": "",
+				"user": "1",
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "109",
+				"dlikes": "18"
+			}, {
+				"id": "5",
+				"type": "text",
+				"title": "test text2",
+				"body": "",
+				"user": {
+					"id": "1",
+					"name": "Hamzah"
+				},
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "301",
+				"dlikes": "1"
+			}, {
+				"id": "6",
+				"type": "photo",
+				"title": "test phot2o",
+				"body": "",
+				"user": {
+					"id": "1",
+					"name": "Hamzah"
+				},
+				"addtime": "date(2012-04-23T18:25:43.511Z)",
+				"editime": "date(2012-04-23T18:25:43.511Z)",
+				"likes": "181",
+				"dlikes": "1"
+			}]
+		}
+	}
+}
